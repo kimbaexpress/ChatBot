@@ -3,8 +3,7 @@
 
 Bienvenido/a al proyecto ChatBot
 
-ChatBot es un bot desarrollado en Node.js que permite gestionar interacciones con usuarios a través de WhatsApp.
-Este bot está pensado para integrarse con iTicket, aunque puede ser adaptado a otras necesidades.
+Este ChatBot está desarrollado en JavaScript y se ejecuta utilizando Node.js como entorno de tiempo de ejecución. Aprovecha la librería whatsapp-web.js para conectarse a WhatsApp mediante WebSockets, simular la interacción con la web de WhatsApp y ofrecer funcionalidades de envío y recepción de mensajes. Además, utiliza la librería mysql2/promise para conectarse a una base de datos MySQL, y moment-timezone para gestionar de forma adecuada las zonas horarias en todas las operaciones relacionadas con fechas y horas. La integración con Node.js facilita la instalación de dependencias vía npm, la escalabilidad del código y la ejecución continua del bot en servidores o máquinas locales sin la necesidad de un entorno de navegador.
 
 Instrucciones de Instalación
 
