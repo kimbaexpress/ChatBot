@@ -1,3 +1,6 @@
+
+![Sin título-2](https://github.com/user-attachments/assets/4a277518-35aa-4bbd-babe-8dd9fa690aa5)
+
 Bienvenido/a a ChatBot
 
 ChatBot es un bot desarrollado en Node.js que permite gestionar interacciones con usuarios a través de WhatsApp. Este bot está pensado para integrarse con iTicket, aunque puede ser adaptado a otras necesidades.
