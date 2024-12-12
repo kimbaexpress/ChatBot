@@ -66,3 +66,9 @@ Finalizar modo agente:
 
 Esto finalizará el modo agente para el número especificado.
 
+____________________________________________________________________________________________________________________________________________________________
+
+Ejemplo del funcionamiento
+
+
+![example](https://github.com/user-attachments/assets/c0e0ba49-6e65-47d1-b9ab-3a703e50149d)
